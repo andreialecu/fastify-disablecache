@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.0.3](https://github.com/Fdawgs/fastify-disablecache/compare/v3.0.2...v3.0.3) (2022-08-31)
+
+
+### Miscellaneous
+
+* **.husky:** shell path and arg updates ([#179](https://github.com/Fdawgs/fastify-disablecache/issues/179)) ([de8048c](https://github.com/Fdawgs/fastify-disablecache/commit/de8048cc197102b08c85dc0849a61e26f8998701))
+* **.vscode/extensions:** remove unmaintained extension ([1f0b967](https://github.com/Fdawgs/fastify-disablecache/commit/1f0b967c37ee73f915a9a533a5450a4dcd2f48b1))
+
 ## [3.0.2](https://github.com/Fdawgs/fastify-disablecache/compare/v3.0.1...v3.0.2) (2022-08-09)
 
 
